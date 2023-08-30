@@ -1,4 +1,5 @@
-# CHESS-ANALYSIS
+### Chess Analysis: Play The Game
+# Project Name: CHESS-ANALYSIS
 
 
 ### Dataset: [Top 100 Chess Players Analysis](link-to-dataset)
