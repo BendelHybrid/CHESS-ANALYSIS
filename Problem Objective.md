@@ -1,0 +1,1 @@
+Conducted an extensive analysis of the Top 100 Chess Players dataset, focusing on monthly ratings, rankings, games played, and titles earned. Explored player performance, rating effects, and the relationship between titles and accomplishments.
