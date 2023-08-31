@@ -3,7 +3,6 @@
 
 
 ### Dataset: [Top 100 Chess Players Analysis](link-to-dataset)
-
 ---
 
 ### Problem Objective:
